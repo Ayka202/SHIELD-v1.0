@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows NTFS artifacts
+*Zone.Identifier*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment / assistant tooling
+.claude/
+.env
+
+# Manuscript source (not for public release)
+manuscript draft.tex
+
+# Benchmark datasets (copyrighted, not redistributed — see benchmarks/README.md
+# for install instructions and links)
+benchmarks/*.csv
+benchmarks/*.json

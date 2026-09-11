@@ -1,0 +1,29 @@
+# Core SHIELD package (shield/)
+numpy
+torch
+scipy
+gurobipy          # requires a Gurobi license (free for academic use)
+
+# Optional graph-partition backends for shield/solvers/graph_cut.py init
+# pymetis
+# kahip
+
+# Benchmark notebooks / scripts (data loading, featurization, baselines, plots)
+pandas
+scikit-learn
+rdkit
+matplotlib
+seaborn
+joblib
+threadpoolctl
+tqdm
+umap-learn
+pacmap
+trimap
+alphashape
+shapely
+datasketch
+hnswlib
+iterative-stratification
+matminer
+pymatgen
