@@ -44,7 +44,7 @@ SHIELD is built on Python 3.10.11 along with PyTorch 2.5.1+cu121 and uses [Gurob
 pip install -r requirements.txt
 ```
 
-The benchmark scripts additionally depend on RDKit, pymatgen, scikit-learn, and a few other scientific-computing packages used for featurization and visualization - see `requirements.txt` for the full list.
+The benchmark scripts additionally depend on RDKit, pymatgen, scikit-learn 1.6.1, and a few other scientific-computing packages used for featurization and visualization - see `requirements.txt` for the full list.
 
 ## Usage
 
