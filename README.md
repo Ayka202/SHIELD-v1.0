@@ -38,7 +38,7 @@ Each benchmark script is self-contained and imports `shield` and reads from `ben
 
 ## Installation
 
-SHIELD is built on PyTorch and uses [Gurobi](https://www.gurobi.com/) as its LP/MILP backend; a Gurobi license is required to run `shield.split`.
+SHIELD is built on Python 3.10.11 along with PyTorch 2.5.1+cu121 and uses [Gurobi 13.0.2](https://www.gurobi.com/) as its LP/MILP backend; a Gurobi license is required to run `shield.split`.
 
 ```bash
 pip install -r requirements.txt
