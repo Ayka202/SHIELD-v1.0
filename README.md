@@ -80,7 +80,7 @@ Only the splits reported in the manuscript are included so far. If you would lik
 
 ## Citation
 
-This repository accompanies a manuscript currently under peer review. A full citation will be added here once it is published; in the meantime, please cite the repository directly.
+This repository accompanies a [manuscript preprint](https://www.researchsquare.com/article/rs-11005002/v1) currently under peer review. A full citation will be added here once it is published; in the meantime, please cite the [manuscript preprint](https://www.researchsquare.com/article/rs-11005002/v1).
 
 ## License
 
